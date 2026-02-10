@@ -1,0 +1,7 @@
+{
+  "_base": "https://raw.githubusercontent.com/Gravitorix/AudioSamples/main/",
+  "percussion": "percussion.wav",
+  "bell": "bell.wav",
+  "clock": "clock.wav",
+  "circuits": "circuits.wav"
+}
